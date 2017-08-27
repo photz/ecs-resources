@@ -5,6 +5,10 @@
 
 * [Ramblings on Data Oriented Design by Richard Fabian][25]
 
+## Migrating an existing codebase to ECS
+
+* [Switching Win That War! to the Entity-Component-System Pattern][27]
+
 ## Dealing with Relationships between Entities
 
 ## Introducing workers
@@ -173,3 +177,4 @@
 [24]: http://bitsquid.blogspot.de/2014/08/building-data-oriented-entity-system.html
 [25]: http://www.dataorienteddesign.com/dodmain/node14.html
 [26]: http://bitsquid.blogspot.de/2014/09/building-data-oriented-entity-system.html
+[27]: http://www.insaneunity.com/blog/2016/10/28/winthatwar-entity-component-system/
