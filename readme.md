@@ -4,6 +4,7 @@
 ## General discussions of the paradigm
 
 * [Ramblings on Data Oriented Design by Richard Fabian][25]
+* [Entity Systems are the future of MMOG development – Part 2][28]
 
 ## Migrating an existing codebase to ECS
 
@@ -122,6 +123,8 @@
 
 * [Entity-component-system in Clojure][21]
 
+* [Entitas - The Entity Component System Framework for C# and Unity][29]
+
 ## How to make an implementation more cache-friendly
 
 ## Questions regarding how to choose one's components
@@ -178,3 +181,5 @@
 [25]: http://www.dataorienteddesign.com/dodmain/node14.html
 [26]: http://bitsquid.blogspot.de/2014/09/building-data-oriented-entity-system.html
 [27]: http://www.insaneunity.com/blog/2016/10/28/winthatwar-entity-component-system/
+[28]: http://t-machine.org/index.php/2007/11/11/entity-systems-are-the-future-of-mmog-development-part-2/
+[29]: https://github.com/sschmid/Entitas-CSharp
